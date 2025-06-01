@@ -113,7 +113,7 @@ const educationInfo = {
       schoolName: "NIT Jamshedpur",
       logo: require("./assets/images/NITJAMSHEDPUR.jpg"),
       subHeader: "Bachelors Electronics and Communication ",
-      duration: "September 2023 - April 2027",
+      duration: "September 2023 - April 2027"
       // desc: "Participated in the research of XXX and published 3 papers.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -124,7 +124,7 @@ const educationInfo = {
       schoolName: "Delhi Public School,Dhanbad",
       logo: require("./assets/images/images.png"),
       // subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2011 - April 2023",
+      duration: "September 2011 - April 2023"
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
